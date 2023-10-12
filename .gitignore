@@ -1,0 +1,11 @@
+# Compile
+*.pyc
+
+# Libs
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Secrets
