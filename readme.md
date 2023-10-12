@@ -1,8 +1,10 @@
-Веб-приложения на Python
+# Веб-приложения на Python
 
-* Full-stack (Django, Flask)
-* Backend (Django, Flask, FastAPI)
+Напишите сайт для загрузки файлов в папку `static`.
 
-FastAPI - асинхроннный, высокопроизводительный фреймворк для бэкенда
-Django - хорошо структурированный фулл-стек фреймворк (opinionated)
-Flask - гибкий, универсальное решение для всего
+На главной странице должен быть перечень файлов в папке `static` и форма для загрузки нового файла.
+
+Ссылки:
+
+* https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/
+* https://www.w3schools.com/howto/howto_html_file_upload_button.asp
